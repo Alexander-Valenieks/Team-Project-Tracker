@@ -1,4 +1,7 @@
 # Test application: [Project Tracker](https://teamtracker-2f231.web.app/login)
+<img width="1483" alt="Screenshot 2023-10-27 at 11 13 05" src="https://github.com/Alexander-Valenieks/Team-Project-Tracker/assets/18245379/142d4d75-ca0d-490c-b97f-3b016ab753c5">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
